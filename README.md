@@ -59,7 +59,7 @@ A personal AI-powered life coach that provides **daily motivation, productivity 
 | **Frontend** | React Native (Expo) |
 | **AI Model** | OpenAI GPT-4o |
 | **Database** | Firebase Firestore (for goals & history) |
-| **State Management** | Redux Toolkit or React Context |
+| **State Management** | Redux Toolkit |
 | **UI Library** | React Native Paper |
 | **Authentication (Phase 2)** | Firebase Auth |
 
